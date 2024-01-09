@@ -17,7 +17,7 @@
 
 **Project Goals:**
 
-1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years]() and [P&L reports by fiscal months](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
+1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years]() and [P&L reports by fiscal months](https://github.com/Bhagwati-hash/Sales-and-Finance-analytics-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20%20By%20Fiscal%20Months.pdf).
 2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Markets.pdf).
 
 **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
