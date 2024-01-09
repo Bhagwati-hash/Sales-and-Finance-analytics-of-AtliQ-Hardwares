@@ -5,7 +5,7 @@
 **Project Goals:**
 
 1. **Customer Performance Report:** Created a detailed [report](https://github.com/Bhagwati-hash/Sales-and-Finance-analytics-of-AtliQ-Hardwares/blob/main/Customer%20performance%20report.pdf) to assess customer performance.
-2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance]() against sales targets.
+2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/Bhagwati-hash/Sales-and-Finance-analytics-of-AtliQ-Hardwares/blob/main/market%20performance%20vs%20target.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
@@ -17,7 +17,7 @@
 
 **Project Goals:**
 
-1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
+1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years]() and [P&L reports by fiscal months](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
 2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Markets.pdf).
 
 **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
