@@ -18,7 +18,7 @@
 **Project Goals:**
 
 1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/Bhagwati-hash/Sales-and-Finance-analytics-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf) and [P&L reports by fiscal months](https://github.com/Bhagwati-hash/Sales-and-Finance-analytics-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20%20By%20Fiscal%20Months.pdf).
-2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets]().
+2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/Bhagwati-hash/Sales-and-Finance-analytics-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20By%20Market.pdf).
 
 **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
